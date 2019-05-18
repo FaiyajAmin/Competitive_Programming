@@ -34,7 +34,7 @@ int main()
         sf("%d", &c);
 
         if(c>maxi)
-            maxi=c;   ///   or use maxi=max(maxi, c);
+            maxi=c;
 
 
         if(c>m)
